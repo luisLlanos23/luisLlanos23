@@ -1,7 +1,7 @@
 # LuisLlanos
 ## Hi, I'm Luis Llanos, a Systems Engineer 🚀 from Colombia .
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/luis-alfonso-llanos-a64639206/)[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luisLlanos23)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alfonso-llanos-a64639206/)[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luisLlanos23)
 
 ## 🧐 About
 
