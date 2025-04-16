@@ -1,7 +1,18 @@
 # LuisLlanos
-## Hi, I'm Luis Llanos, a Systems Engineer 🚀 from Colombia .
+## Hi, I'm Luis Llanos, a Systems Engineer 🚀 from Colombia.
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alfonso-llanos-a64639206/)[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luisLlanos23)
+📫 **Contact me**:
+
+Feel free to reach out to me via:
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alfonso-llanos-a64639206/)
+
+✉️ Email: luiscorporativo547@gmail.com
+
+
+## 🌐 Portfolio:
+
+[![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/luisLlanos23/iaac-bakend-portfolio)
 
 ## 🧐 About
 
@@ -15,5 +26,5 @@ I consider myself a dynamic, entrepreneurial person, with initiative and innovat
 
 ## 📌 Languages and Tools
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code><code><img width=10% src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code><code><img width=10% src="https://www.vectorlogo.zone/logos/amazon/amazon-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/pytest/pytest-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code><code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code><code><img width="10%" src="https://github.com/typeorm/typeorm/raw/master/resources/typeorm-logo-colored-dark.png"></code><code><img width="10%" src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg"></code>
 
